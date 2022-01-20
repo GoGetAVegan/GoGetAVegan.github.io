@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Maximus Lorah Portfolio
 
-You can use the [editor on GitHub](https://github.com/GoGetAVegan/GoGetAVegan.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Just getting used to GitHub pages for now and will update all this once I start getting projects done for it and setting up where everything will go.
 
 ### Markdown
 
