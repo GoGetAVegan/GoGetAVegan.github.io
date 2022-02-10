@@ -1,35 +1,26 @@
 ## Maximus Lorah Portfolio
 
-Just getting used to GitHub pages for now and will update all this once I start getting projects done for it and setting up where everything will go.
+### Diagetic UI
 
-### Markdown
+In this project I have made a UI system that tries not to take away from the player and is incorporated to the game.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![HoloWatch](https://user-images.githubusercontent.com/54685877/153337999-712e5b08-1df1-42d8-8c66-68290842b3df.png)
 
-```markdown
-Syntax highlighted code block
+In this image it is a small watch that the player is holding showing them their current health and a little message welcoming them. I made it very small to still give the player ample room to see their surroundings.
 
-# Header 1
-## Header 2
-### Header 3
+![HoloWatchClosed](https://user-images.githubusercontent.com/54685877/153338176-a287f5e5-230a-402a-a252-7254a4529e2f.png)
 
-- Bulleted
-- List
+The player can close the watch allowing them to have full view of their environment.
 
-1. Numbered
-2. List
+![HolographicMaterial](https://user-images.githubusercontent.com/54685877/153338386-a8df2213-3cf0-4a35-8f6d-fc2989c43658.png)
+![HealthBar](https://user-images.githubusercontent.com/54685877/153338513-9cb2030e-33ad-4c57-bae7-d1e13875c70e.png)
 
-**Bold** and _Italic_ and `Code` text
+I made the materials used on the watch where the first image shows the background where I was going for a holographic look and the second image is the healthbar that changes color depending on your health state where full is green and near death is red.
 
-[Link](url) and ![Image](src)
-```
+![image](https://user-images.githubusercontent.com/54685877/153338699-87c82709-1d71-402d-aa16-1218cd300067.png)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+
 
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GoGetAVegan/GoGetAVegan.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
