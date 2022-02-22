@@ -2,7 +2,7 @@
 
 ### Diagetic UI
 
-In this project I have made a UI system that tries not to take away from the player and is incorporated to the game.
+In this project I have made a UI system that makes a Diagetic menu that the player can interact with much like how Dead Space has their diagetic UI system.
 
 ![HoloWatch](https://user-images.githubusercontent.com/54685877/153337999-712e5b08-1df1-42d8-8c66-68290842b3df.png)
 
@@ -15,7 +15,7 @@ The player can close the watch allowing them to have full view of their environm
 ![HolographicMaterial](https://user-images.githubusercontent.com/54685877/153338386-a8df2213-3cf0-4a35-8f6d-fc2989c43658.png)
 ![HealthBar](https://user-images.githubusercontent.com/54685877/153338513-9cb2030e-33ad-4c57-bae7-d1e13875c70e.png)
 
-I made the materials used on the watch where the first image shows the background where I was going for a holographic look and the second image is the healthbar that changes color depending on your health state where full is green and near death is red.
+I made the materials used on the watch where the first image shows the background where I was going for a holographic look and the second image is the healthbar that changes color depending on your health state where full is green and near death is red(Pictured below).
 
 ![image](https://user-images.githubusercontent.com/54685877/153338699-87c82709-1d71-402d-aa16-1218cd300067.png)
 
