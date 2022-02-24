@@ -15,7 +15,7 @@ The player can close the watch allowing them to have full view of their environm
 ![HolographicMaterial](https://user-images.githubusercontent.com/54685877/153338386-a8df2213-3cf0-4a35-8f6d-fc2989c43658.png)
 ![HealthBar](https://user-images.githubusercontent.com/54685877/153338513-9cb2030e-33ad-4c57-bae7-d1e13875c70e.png)
 
-I made the materials used on the watch where the first image shows the background where I was going for a holographic look and the second image is the healthbar that changes color depending on your health state where full is green and near death is red.(Pictured below)
+I made the materials used on the watch where the first image shows the background where I was going for a holographic look and the second image is the healthbar that changes color depending on your health state where full is green and near death is red (pictured below).
 
 ![image](https://user-images.githubusercontent.com/54685877/153338699-87c82709-1d71-402d-aa16-1218cd300067.png)
 
