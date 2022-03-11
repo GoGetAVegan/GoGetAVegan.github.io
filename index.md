@@ -20,6 +20,21 @@ I made the materials used on the watch where the first image shows the backgroun
 ![image](https://user-images.githubusercontent.com/54685877/153338699-87c82709-1d71-402d-aa16-1218cd300067.png)
 
 
+### OnlineFPS
+
+In this project I wanted to make an online FPS that way I would have some experience with the online features that the unreal engine has. 
+
+![image](https://user-images.githubusercontent.com/54685877/157775723-3c95b670-d093-4b20-a0aa-4609e1eaa66c.png)
+
+I was able to get two players spawning in the world and could add more if needed and both can shoot and move around and both update correctly with their positions in the world.
+
+![image](https://user-images.githubusercontent.com/54685877/157775879-b8e6cfd5-f6a3-44e1-9c4f-b5fd065b486e.png)
+
+The players had a parkour component attached to them and could do their movements with this allowing them to Wall Climb, Slide, Sprint, and event Mantle. This was a little harder to get working as I had to replicate it to both characters since the component needs specific things from the character movement allowing them to execute the parkour.
+
+This component also has a queue system in place so it can be seemless when going from sliding to sprinting and from sprinting to sliding. This works with other parkour moves as well making the transition between them not feel jittery.
+
+
 
 ### Jekyll Themes
 
