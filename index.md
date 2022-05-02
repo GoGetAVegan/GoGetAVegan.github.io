@@ -34,7 +34,17 @@ The players had a parkour component attached to them and could do their movement
 
 This component also has a queue system in place so it can be seemless when going from sliding to sprinting and from sprinting to sliding. This works with other parkour moves as well making the transition between them not feel jittery.
 
+### Fighter Character Select
 
+In this project I wanted to make a UI for a fighting game and started off with the character select screen.
+
+![image](https://user-images.githubusercontent.com/54685877/166177982-2428dfd6-4469-4cfb-9859-a2ecc02d35ad.png)
+
+In the image above you can see the screen where players will choose the fighters they want to play. The characters when selected have animation that they play and currently they are just default Unreal Engine animations but can easily be replaced. The images of the characters themselves are the target of a renderer so its easier to make them look better and its easier to replace the images as well since you just have to move the camera around until it captures what you want of the character.
+
+The players at anytime can cancle the choice of character as well by just hitting the escape key. This does need work as it only works for one player but can easily be adapted to multiplayer on the keyboard. While making this selection screen I wanted to make it so it could be adapted into anything and easily transferable as well.
+
+https://user-images.githubusercontent.com/54685877/166178511-5247e43f-fb28-4661-97ae-dd8dc00ba02e.mp4
 
 ### Jekyll Themes
 
