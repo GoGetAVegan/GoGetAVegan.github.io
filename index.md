@@ -45,7 +45,3 @@ In the image above you can see the screen where players will choose the fighters
 The players at anytime can cancle the choice of character as well by just hitting the escape key. This does need work as it only works for one player but can easily be adapted to multiplayer on the keyboard. While making this selection screen I wanted to make it so it could be adapted into anything and easily transferable as well.
 
 https://user-images.githubusercontent.com/54685877/166178511-5247e43f-fb28-4661-97ae-dd8dc00ba02e.mp4
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GoGetAVegan/GoGetAVegan.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
