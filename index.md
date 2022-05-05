@@ -44,6 +44,6 @@ In the image above you can see the screen where players will choose the fighters
 
 The players at anytime can cancle the choice of character as well by just hitting the escape key. This does need work as it only works for one player but can easily be adapted to multiplayer on the keyboard. While making this selection screen I wanted to make it so it could be adapted into anything and easily transferable as well.
 
-<video width="320" height="240" controls>
+<video width="500" height="500" controls>
   <source type="video/mp4" src="https://user-images.githubusercontent.com/54685877/166178511-5247e43f-fb28-4661-97ae-dd8dc00ba02e.mp4">
 </video>
